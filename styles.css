@@ -1,0 +1,42 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(3, 226, 255);
+}
+
+/* FACE */
+.face {
+    background-color: bisque;
+    height: 150px;
+    width: 150px;
+    border-radius: 76px;
+    margin-top: 50px;
+    margin-left: 18px;
+}
+
+/* EYES */
+.eye-container {
+    display: flex;
+    justify-content: center;
+}
+
+.eye {
+    background-color: white;
+    height: 45px;
+    width: 45px;
+    margin: 10px;
+    border-radius: 25px;
+}
+
+/* PUPILS */
+.pupil {
+    background-color: black;
+    height: 22px;
+    width: 22px;
+    border-radius: 12px;
+    margin: 10px 0px 10px 20px;
+}
+
+/*  */
