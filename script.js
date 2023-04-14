@@ -6,3 +6,5 @@ function moveSmiley() {
     smiley.style.left = count + 'px'
     console.log(`Smiley moved! ${count}`)
 }
+
+smiley.addEventListener('click', moveSmiley)
