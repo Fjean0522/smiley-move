@@ -1,5 +1,6 @@
 * {
     box-sizing: border-box;
+    /* border:  1px solid; */
 }
 
 body {
@@ -39,4 +40,26 @@ body {
     margin: 10px 0px 10px 20px;
 }
 
-/*  */
+/* MOUTH */
+.mouth {
+    background-color: black;
+    width: 100px;
+    height: 45px;
+    border-radius: 7px 7px 100px 100px;
+    margin-left: 25px;
+    margin-top: 20px;
+}
+
+.teeth-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 24px;
+}
+
+.teeth {
+    background-color: white;
+    height: 30px;
+    width: 16px;
+    border: 1px solid;
+    border-radius: 1.5px;
+}
