@@ -4,6 +4,8 @@ Simple "Game" landing page, Created to practice javascript variables and functio
 Character named "Smiley" (for obvious reasons), moves horizontally by 50px when function named "moveSmiley" is invoked.
 Smiley's moves are also tracked via console. Function is invoked by clicking on the character.
 
+# Live site
+https://fjean0522.github.io/smiley-move/
 
 ## 1 Author
 Fjean0522
